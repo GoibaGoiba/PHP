@@ -12,7 +12,7 @@
         while ($contador<=5){
             echo "Número: $contador<br>";
             $contador++
-        }
+    }
     $cont=1;
     while ($cont<=5){
         $cont++

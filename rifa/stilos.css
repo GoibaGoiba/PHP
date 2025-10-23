@@ -1,0 +1,22 @@
+form{
+    border: 1px rgba(251, 231, 195, 0.97) solid;
+    align-content: center;
+    background-color: rgba(251, 231, 195, 0.97);
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: rgba(251, 231, 195, 0.97);
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 1px rgba(251, 231, 195, 0.97);
+    border-radius: 30px;
+    padding: 30px;
+}
+body{
+    background-color: rgba(190, 250, 255, 0.721);
+}
